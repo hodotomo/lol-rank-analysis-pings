@@ -6,13 +6,13 @@ Riot APIを用いて下位（アイアン）から上位（ダイアモンド）
 分析手法として、基礎統計・相関分析を層別分析と組み合わせ、Pingsの頻度と習熟度の関係性の抽出と可視化を行います。
 
 # 使用技術
-Python 3.11.9
-Riot API
-SQLite
+Python 3.11.9\n
+Riot API\n
+SQLite\n
 Libraries: Pandas, Matplotlib, Seaborn
 
 # 実行順番
-1．get_match_data.ipynb
+1．get_match_data.ipynb\n
 2．anaryze.ipynb
 
 # 注意点
