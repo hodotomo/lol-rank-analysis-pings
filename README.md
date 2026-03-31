@@ -1,0 +1,1 @@
+# lol-rank-analysis-pings
